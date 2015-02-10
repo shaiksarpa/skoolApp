@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="js/|templates/" kind="src" path=""/>
+	<classpathentry kind="src" path="js"/>
+	<classpathentry kind="src" path="templates"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
